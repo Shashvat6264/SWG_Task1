@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SWG_Task1</string>
+    <string name="tab_text_1">Syllabus</string>
+    <string name="tab_text_2">Materials</string>
+    <string name="title_activity_doubt_session">DoubtSession</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_p_d_s">PDS</string>
+</resources>
